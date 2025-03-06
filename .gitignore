@@ -1,0 +1,12 @@
+# jupyter Notebooks
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# model checkpoints and logs
+*.pth
+*.pt
+
+# images and media
+*.jpg
+*.jpeg
+*.png
