@@ -14,3 +14,8 @@ This notebook demonstrates building neural networks from scratch with automatic 
 ### [neural_probabilistic_language_model](./neural_probabilistic_language_model/neural_probabilistic_language_model.ipynb)
 
 Implementation of the Neural Probabilistic Language Model as introduced by Bengio et al. This notebook explores the foundations of neural language modeling.
+
+### [batch_norm](./batch_norm/batch_norm.ipynb)
+
+Experiments with Batch Normalization in neural networks.
+This notebook explores how batch normalization affects training dynamics, convergence speed, and overall performance by comparing models with and without this technique.
