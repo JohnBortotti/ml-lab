@@ -19,3 +19,6 @@ Implementation of the Neural Probabilistic Language Model as introduced by Bengi
 
 Experiments with Batch Normalization in neural networks.
 This notebook explores how batch normalization affects training dynamics, convergence speed, and overall performance by comparing models with and without this technique.
+
+### [optimizers](./optimizers/optimizers.ipynb)
+Visualization and analysis of optimization algorithms including SGD, Momentum, and Adam.
