@@ -22,3 +22,9 @@ This notebook explores how batch normalization affects training dynamics, conver
 
 ### [optimizers](./optimizers/optimizers.ipynb)
 Visualization and analysis of optimization algorithms including SGD, Momentum, and Adam.
+
+### [convolution](./convolution/)
+A series of notebooks exploring convolutional neural networks:
+- [convolution_fundamentals](./convolution/convolution_fundamentals.ipynb): Understanding the mathematics and intuition behind convolution operations.
+- [mnist_linear](./convolution/mnist_linear.ipynb): Implementation of linear and MLP models on the MNIST dataset.
+- [mnist_cnn](./convolution/mnist_cnn.ipynb): Implementation of CNNs on MNIST, demonstrating how convolutions improve performance.
