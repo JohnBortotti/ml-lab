@@ -28,3 +28,5 @@ A series of notebooks exploring convolutional neural networks:
 - [convolution_fundamentals](./convolution/convolution_fundamentals.ipynb): Understanding the mathematics and intuition behind convolution operations.
 - [mnist_linear](./convolution/mnist_linear.ipynb): Implementation of linear and MLP models on the MNIST dataset.
 - [mnist_cnn](./convolution/mnist_cnn.ipynb): Implementation of CNNs on MNIST, demonstrating how convolutions improve performance.
+- [fashion_mnist](./convolution/fashion_mnist.ipynb): Implementation of CNN architectures on the Fashion-MNIST dataset, demonstrating performance on a more complex image classification task with clothing items.
+- [cat_and_dog](./convolution/cat_and_dog.ipynb): Comparative implementation of cat vs. dog image classification using three approaches: PyTorch, Keras, and an AlexNet architecture in PyTorch, showcasing framework differences and architecture choices.
