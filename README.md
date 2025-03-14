@@ -32,3 +32,7 @@ A series of notebooks exploring convolutional neural networks:
 - [cat_and_dog](./convolution/cat_and_dog.ipynb): Comparative implementation of cat vs. dog image classification using three approaches: PyTorch, Keras, and an AlexNet architecture in PyTorch, showcasing framework differences and architecture choices.
 - [cifar_10](./convolution/cifar_10.ipynb): Comparison of advanced CNN architectures (AlexNet, ResNet, DenseNet) on the CIFAR-10 dataset, showcasing the evolution and improvements in convolutional network design
 - [german_traffic_sign](./convolution/%20german_traffic_sign.ipynb)
+
+### [object-detection](./object_detection/)
+Exploration of object detection techniques. This directory contains implementations and experiments, demonstrating real-time object detection capabilities and applications.
+- [car-detection](./object_detection/car_object_detection.ipynb): Implementation of YOLO for detecting cars in images and video.
