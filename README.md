@@ -31,3 +31,4 @@ A series of notebooks exploring convolutional neural networks:
 - [fashion_mnist](./convolution/fashion_mnist.ipynb): Implementation of CNN architectures on the Fashion-MNIST dataset, demonstrating performance on a more complex image classification task with clothing items.
 - [cat_and_dog](./convolution/cat_and_dog.ipynb): Comparative implementation of cat vs. dog image classification using three approaches: PyTorch, Keras, and an AlexNet architecture in PyTorch, showcasing framework differences and architecture choices.
 - [cifar_10](./convolution/cifar_10.ipynb): Comparison of advanced CNN architectures (AlexNet, ResNet, DenseNet) on the CIFAR-10 dataset, showcasing the evolution and improvements in convolutional network design
+- [german_traffic_sign](./convolution/%20german_traffic_sign.ipynb)
