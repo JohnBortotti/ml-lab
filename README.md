@@ -36,3 +36,7 @@ A series of notebooks exploring convolutional neural networks:
 ### [object-detection](./object_detection/)
 Exploration of object detection techniques. This directory contains implementations and experiments, demonstrating real-time object detection capabilities and applications.
 - [car-detection](./object_detection/car_object_detection.ipynb): Implementation of YOLO for detecting cars in images and video.
+
+### [npl](./nlp/)
+Natural language processing
+- [text_classification](./nlp/text_classification.ipynb): Implementation of Text classification tasks with multiple ML algorithms
