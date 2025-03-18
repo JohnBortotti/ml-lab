@@ -40,3 +40,4 @@ Exploration of object detection techniques. This directory contains implementati
 ### [npl](./nlp/)
 Natural language processing
 - [text_classification](./nlp/text_classification.ipynb): Implementation of Text classification tasks with multiple ML algorithms
+- [token_classification](./nlp/token_classification.ipynb): Implementation of Token classification (Named entity recognition)
